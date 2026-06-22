@@ -1,0 +1,17 @@
+C:\Users\AHMETCILDAN\source\repos\SinavD2S2\SinavD2S2\bin\Debug\net6.0-windows\SinavD2S2.exe
+C:\Users\AHMETCILDAN\source\repos\SinavD2S2\SinavD2S2\bin\Debug\net6.0-windows\SinavD2S2.deps.json
+C:\Users\AHMETCILDAN\source\repos\SinavD2S2\SinavD2S2\bin\Debug\net6.0-windows\SinavD2S2.runtimeconfig.json
+C:\Users\AHMETCILDAN\source\repos\SinavD2S2\SinavD2S2\bin\Debug\net6.0-windows\SinavD2S2.dll
+C:\Users\AHMETCILDAN\source\repos\SinavD2S2\SinavD2S2\bin\Debug\net6.0-windows\SinavD2S2.pdb
+C:\Users\AHMETCILDAN\source\repos\SinavD2S2\SinavD2S2\obj\Debug\net6.0-windows\SinavD2S2.csproj.AssemblyReference.cache
+C:\Users\AHMETCILDAN\source\repos\SinavD2S2\SinavD2S2\obj\Debug\net6.0-windows\SinavD2S2.Form1.resources
+C:\Users\AHMETCILDAN\source\repos\SinavD2S2\SinavD2S2\obj\Debug\net6.0-windows\SinavD2S2.csproj.GenerateResource.cache
+C:\Users\AHMETCILDAN\source\repos\SinavD2S2\SinavD2S2\obj\Debug\net6.0-windows\SinavD2S2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AHMETCILDAN\source\repos\SinavD2S2\SinavD2S2\obj\Debug\net6.0-windows\SinavD2S2.AssemblyInfoInputs.cache
+C:\Users\AHMETCILDAN\source\repos\SinavD2S2\SinavD2S2\obj\Debug\net6.0-windows\SinavD2S2.AssemblyInfo.cs
+C:\Users\AHMETCILDAN\source\repos\SinavD2S2\SinavD2S2\obj\Debug\net6.0-windows\SinavD2S2.csproj.CoreCompileInputs.cache
+C:\Users\AHMETCILDAN\source\repos\SinavD2S2\SinavD2S2\obj\Debug\net6.0-windows\SinavD2S2.dll
+C:\Users\AHMETCILDAN\source\repos\SinavD2S2\SinavD2S2\obj\Debug\net6.0-windows\refint\SinavD2S2.dll
+C:\Users\AHMETCILDAN\source\repos\SinavD2S2\SinavD2S2\obj\Debug\net6.0-windows\SinavD2S2.pdb
+C:\Users\AHMETCILDAN\source\repos\SinavD2S2\SinavD2S2\obj\Debug\net6.0-windows\SinavD2S2.genruntimeconfig.cache
+C:\Users\AHMETCILDAN\source\repos\SinavD2S2\SinavD2S2\obj\Debug\net6.0-windows\ref\SinavD2S2.dll

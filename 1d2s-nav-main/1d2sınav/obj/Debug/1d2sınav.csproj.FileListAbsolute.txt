@@ -1,0 +1,11 @@
+C:\Users\AHMETCILDAN\source\repos\1d2sınav\1d2sınav\bin\Debug\1d2sınav.exe.config
+C:\Users\AHMETCILDAN\source\repos\1d2sınav\1d2sınav\bin\Debug\1d2sınav.exe
+C:\Users\AHMETCILDAN\source\repos\1d2sınav\1d2sınav\bin\Debug\1d2sınav.pdb
+C:\Users\AHMETCILDAN\source\repos\1d2sınav\1d2sınav\obj\Debug\1d2sınav.csproj.AssemblyReference.cache
+C:\Users\AHMETCILDAN\source\repos\1d2sınav\1d2sınav\obj\Debug\1d2sınav.csproj.SuggestedBindingRedirects.cache
+C:\Users\AHMETCILDAN\source\repos\1d2sınav\1d2sınav\obj\Debug\_1d2sınav.Form1.resources
+C:\Users\AHMETCILDAN\source\repos\1d2sınav\1d2sınav\obj\Debug\_1d2sınav.Properties.Resources.resources
+C:\Users\AHMETCILDAN\source\repos\1d2sınav\1d2sınav\obj\Debug\1d2sınav.csproj.GenerateResource.cache
+C:\Users\AHMETCILDAN\source\repos\1d2sınav\1d2sınav\obj\Debug\1d2sınav.csproj.CoreCompileInputs.cache
+C:\Users\AHMETCILDAN\source\repos\1d2sınav\1d2sınav\obj\Debug\1d2sınav.exe
+C:\Users\AHMETCILDAN\source\repos\1d2sınav\1d2sınav\obj\Debug\1d2sınav.pdb

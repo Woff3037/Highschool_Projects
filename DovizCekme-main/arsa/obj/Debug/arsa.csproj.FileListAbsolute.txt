@@ -1,0 +1,11 @@
+C:\Users\AHMETCILDAN\source\repos\arsa\arsa\bin\Debug\arsa.exe.config
+C:\Users\AHMETCILDAN\source\repos\arsa\arsa\bin\Debug\arsa.exe
+C:\Users\AHMETCILDAN\source\repos\arsa\arsa\bin\Debug\arsa.pdb
+C:\Users\AHMETCILDAN\source\repos\arsa\arsa\obj\Debug\arsa.csproj.AssemblyReference.cache
+C:\Users\AHMETCILDAN\source\repos\arsa\arsa\obj\Debug\arsa.csproj.SuggestedBindingRedirects.cache
+C:\Users\AHMETCILDAN\source\repos\arsa\arsa\obj\Debug\arsa.Form1.resources
+C:\Users\AHMETCILDAN\source\repos\arsa\arsa\obj\Debug\arsa.Properties.Resources.resources
+C:\Users\AHMETCILDAN\source\repos\arsa\arsa\obj\Debug\arsa.csproj.GenerateResource.cache
+C:\Users\AHMETCILDAN\source\repos\arsa\arsa\obj\Debug\arsa.csproj.CoreCompileInputs.cache
+C:\Users\AHMETCILDAN\source\repos\arsa\arsa\obj\Debug\arsa.exe
+C:\Users\AHMETCILDAN\source\repos\arsa\arsa\obj\Debug\arsa.pdb
